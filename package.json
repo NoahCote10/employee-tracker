@@ -17,7 +17,6 @@
   },
   "homepage": "https://github.com/NoahCote10/employee-tracker#readme",
   "dependencies": {
-    "console.table": "^0.10.0",
     "inquirer": "^8.0.0",
     "mysql2": "^2.2.5"
   }
